@@ -2,7 +2,7 @@
 
 This repository holds the implementation of the third assignment for the **Social Network Analysis** half-course, which was part of the M.Sc. in Data Science of the Athens University of Economics and Business.
 
-_**IMPORTANT NOTE**_: The original assignment description itself is not available in this repo. It acts more like a GitHub save of the assignment implementation and it is not supposed to make full sense on its own. I plan to update the repo in the future with the full assignment description as well as the prerequisites.
+_**IMPORTANT NOTE**_: The original assignment description itself as well as the accompanying files that were given are **NOT** available in this repo. It acts more like a GitHub save of the assignment implementation and it is not supposed to make full sense on its own. I plan to update the repo in the future with the full assignment description as well as the prerequisites.
 
 ### Assignment Overview ###
 [**_Gephi_**](https://gephi.org/) is an open-source visualisation and exploration software for all kinds of graphs and networks. In this assignment, we import a network into Gephi, measure various statistics, apply transformations on the each with respect to certain characteristics and finally export the network into a web app (Firefox).
